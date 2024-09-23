@@ -1,7 +1,7 @@
 criaCartao(
     'Donuts',
     'Como é feito:',
-    'Ingredientes: 4 xícaras de farinha de trigo/n250 ml de leite integral/n2 ovos'
+    'Ingredientes: 4 xícaras de farinha de trigo<br>250 ml de leite integral<br>2 ovos'
 )
 
 criaCartao(
